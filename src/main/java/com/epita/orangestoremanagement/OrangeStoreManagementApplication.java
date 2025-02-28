@@ -9,5 +9,4 @@ public class OrangeStoreManagementApplication {
     public static void main(String[] args) {
         SpringApplication.run(OrangeStoreManagementApplication.class, args);
     }
-
 }
